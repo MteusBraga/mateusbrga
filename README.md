@@ -1,5 +1,5 @@
 ### Olá! 👋<br>
-Sou estudante de Engenharia da Computação pela IFPB
+Me chamo Mateus Braga e sou apaixonado por artes, e programar é uma delas
 <hr>
 <div>
   Repositórios:<br>
@@ -24,6 +24,19 @@ Sou estudante de Engenharia da Computação pela IFPB
   <img height="35" witdh="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="35" witdh="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img height="35" witdh="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+</div>
+<hr>
+<div>
+  Interesse em:<br>
+  <br>
+  <img height="35" witdh="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+  <img height="35" witdh="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="35" witdh="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="35" witdh="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img height="35" witdh="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+  <img height="35" witdh="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
+  <img height="35" witdh="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="35" witdh="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
 </div>
  
 
