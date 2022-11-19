@@ -1,5 +1,5 @@
 ### Olá! 👋<br>
-Me chamo Mateus Braga e sou apaixonado por artes, e programar é uma delas
+Me chamo Mateus Braga, sou apaixonado por artes e programar é uma delas
 <hr>
 <div>
   Repositórios:<br>
