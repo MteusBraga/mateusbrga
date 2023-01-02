@@ -31,7 +31,7 @@ Me chamo Mateus Braga, sou apaixonado por artes e programar é uma delas
 <div> 
   
   Contatos:<br>
-  <a href="https://www.linkedin.com/in/mateus-braga-567339237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="https://www.instagram.com/teus_braga_/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.linkedin.com/in/mateus-braga-567339237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" >
+  <a href="https://www.instagram.com/teus_braga_/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </div>
 
