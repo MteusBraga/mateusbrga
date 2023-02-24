@@ -6,7 +6,7 @@ Me chamo Mateus Braga, sou apaixonado por artes e programar é uma delas
   <br>
   <!--<a href="https://github.com/mateusbrga">-->
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateusbrga&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbrga&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbrga&layout=compact&langs_count=16&theme=tokyonight&hide=jupyter%20notebook,CMake"/>
 </div>
 <hr>
 <div>
